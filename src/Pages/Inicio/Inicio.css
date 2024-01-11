@@ -1,0 +1,18 @@
+.boton{
+    width: 100px;
+    border-radius: 20px;
+    border:none;
+    background-color: darkgray;
+    padding: 5px;
+}
+
+.botonf{
+    width: 100px;
+    border-radius: 20px;
+    border: none;
+    background-color: red;
+    padding: 5px;
+    color:white;
+    margin-left: 50%;
+    cursor: pointer;
+}
